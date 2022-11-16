@@ -1,0 +1,11 @@
+{
+    "wyrn": {
+        "tutorial": {
+            "completed": 0,
+            "tutorial_dialogue": [
+                "Press the scavenge button to search for materials.",
+                "This will allow you to build up your homestead."
+            ]
+        }
+    }
+}
