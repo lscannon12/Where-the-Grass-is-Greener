@@ -1,18 +1,19 @@
-/////////////////////////////////////////
-* PROJECT ---------- POCKET FRIENDS     *
-* APPLICATION TYPE - CHROME EXT.        *
-* DEVELOPER -------- LUCAS CANNON       *
-* START DATE ------- APRIL 13, 2022     *
-/////////////////////////////////////////
+/////////////////////////////////////////////////////
+* PROJECT ---------- Where the Grass is Greener     *
+* APPLICATION TYPE - WEB APP                        *
+* DEVELOPER -------- LUCAS CANNON                   *
+* START DATE ------- APRIL 13, 2022                 *
+/////////////////////////////////////////////////////
 
 =========================================
 CONCEPT
 _________________________________________
-
-Pocket Friends is a Google Chrome Widget that allows users to interact with their friends online via pixelated avatars or 'meeple'. 
+Where the Grass is Greener is a web application that encourages users to passively connect with their friends while they work, game, or casually browse the internet. This is done through the use of avatars, which in this case are the great exploratory species of Membles (a cat / bear hybrid.) 
+ 
+Users will be able to establish an ever-growing homestead, inviting their friends over to either help them build up the homestead or simply just hang out. As the homestead grows, more hang-out options will become available. 
 
 ==========================================
-PINTEREST INSPO MOODBOARD
+INSPIRATIONS
 __________________________________________
 
 -Root board game
@@ -23,7 +24,7 @@ __________________________________________
 ==========================================
 THOUGHTS AND IDEAS
 __________________________________________
--Play as forest animals (badgers, foxes, dogs, moles, hedgehog, duck etc)
+-Play as the Memble, a hardy race travelling from the brutal, capital-driven East
 -HOLIDAYS free present on christmas and costumes on 'ween
 -Cat playing a fiddle
 -choice between A-Frame and silo house (peep moomin silo house on pinterest)
